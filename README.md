@@ -13,7 +13,7 @@ This project uses Puppeteer to automate a browser session, capture a screenshot,
    npm install
 ## Usage
 
-    ```bash
+
     npm start
     
 ## Outputs 
