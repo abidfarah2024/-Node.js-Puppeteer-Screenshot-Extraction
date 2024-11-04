@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-screenshot-assessment",
+  "version": "1.0.0",
+  "description": "Puppeteer script for capturing screenshots and extracting ad details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.2.0",
+    "fs": "0.0.1-security",
+    "crypto": "^1.0.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
