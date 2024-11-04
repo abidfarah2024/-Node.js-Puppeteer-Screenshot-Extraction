@@ -12,11 +12,14 @@ This project uses Puppeteer to automate a browser session, capture a screenshot,
    ```bash
    npm install
 ## Usage
-```bash
-npm start
+
+    ```bash
+    npm start
+    
 ## Outputs 
 left_banner_screenshot.png: Screenshot of the left-side banner (generated automatically by the script).
 ad_details.json: JSON file containing the extracted ad details.
+
 ## Project Structure
 
 index.js: The main script file with Puppeteer code.
